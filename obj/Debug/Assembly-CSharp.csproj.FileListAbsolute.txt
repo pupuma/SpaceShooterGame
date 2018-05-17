@@ -1,0 +1,126 @@
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Desktop\Space\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Desktop\Space\SpaceShooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Space\SpaceShooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\Space\SpaceShooter\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.BackGround, Player)\SpaceShooter\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\SpaceShooter(1.Camera고정)\SpaceShooter\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\SpaceShooter(2.총알생성)\SpaceShooter\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\SpaceShooter(3.상속과 적만들기)\SpaceShooter\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\UnityStudy\SpaceShooter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\UnityStudy\SpaceShooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\UnityStudy\SpaceShooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\UnityStudy\SpaceShooter\obj\Debug\Assembly-CSharp.pdb
